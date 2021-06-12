@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-+ 💻 I’m currently learning : Full Stack Development
++ 💻 Full Stack Developer `junior`
 + 📫 How to reach me:
 
 
