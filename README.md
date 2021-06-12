@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-+ 🌱 I’m currently learning : web & desktop development
++ 💻 I’m currently learning : Full Stack Development
 + 📫 How to reach me:
 
 
