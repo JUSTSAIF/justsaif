@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justsaif&show_icons=true&theme=radical&card_width=1000)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justsaif)](https://github.com/anuraghazra/github-readme-stats)
 + 💻 Full Stack Developer `junior` 
 + 📫 How to reach me:
   -  <a href="https://www.instagram.com/qq_iq"><img wdith="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
