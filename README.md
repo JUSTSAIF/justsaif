@@ -18,4 +18,6 @@
   + NEO : AN5yuxBkS3LAjT2GgFKArKC84R9J4bVmMi
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justsaif&show_icons=true&theme=radical)
+<div style="align:center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justsaif&show_icons=true&theme=radical)
+</div>
