@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="margin-left:400px" >
+<div style="margin-right:400px" >
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justsaif&show_icons=true&theme=radical)
 
