@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justsaif&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 + 💻 Full Stack Developer `junior` 
 + 📫 How to reach me:
   -  <a href="https://www.instagram.com/qq_iq"><img wdith="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
