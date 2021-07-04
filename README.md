@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-+ 💻 Full Stack Developer `junior`
++ 💻 Full Stack Developer `junior` ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justsaif&show_icons=true&theme=radical)
 + 📫 How to reach me:
 
 
@@ -16,10 +16,3 @@
   + ETH : 0x4Dd26a3cdB7333aC0319925387896537F04F7B8e
   + XRP : rEM2kCNSTgo1pkKqEND5foQ86cs3aLyapv
   + NEO : AN5yuxBkS3LAjT2GgFKArKC84R9J4bVmMi
-
-
-<div style="align:center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justsaif&show_icons=true&theme=radical)
-  
-</div>
