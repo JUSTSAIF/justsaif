@@ -22,5 +22,8 @@
 
 
 
+<p align="center" width="100%">
+    <img width="33%" src="https://discord.c99.nl/widget/theme-1/717537699929522313.png">
+</p>
 
 ![Discord](https://discord.c99.nl/widget/theme-1/717537699929522313.png)
