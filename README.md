@@ -26,3 +26,6 @@
     <img width="35%" src="https://discord.c99.nl/widget/theme-1/717537699929522313.png">
 </p>
 
+<p align="center" width="100%">
+    <img width="35%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
