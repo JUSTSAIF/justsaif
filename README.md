@@ -27,5 +27,5 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="35%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
