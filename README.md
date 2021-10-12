@@ -23,6 +23,6 @@
 
 
 <p align="center" width="100%">
-    <img width="44%" src="https://discord.c99.nl/widget/theme-1/717537699929522313.png">
+    <img width="35%" src="https://discord.c99.nl/widget/theme-1/717537699929522313.png">
 </p>
 
