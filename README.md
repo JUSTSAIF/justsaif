@@ -1,7 +1,7 @@
 ### Hi there 👋
 + 💻 Full Stack Developer `junior` 
 
-+ 📫 How to reach me :     [justsaif.github.io](https://justsaif.github.io)
++ 📫 How to reach me :     [justsaif.com](https://justsaif.com)
 
 + 💻 Langs: 
 
