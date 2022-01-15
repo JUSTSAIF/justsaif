@@ -26,12 +26,8 @@
 
 
 +   
-  + BTC : bc1qq00l7r6rrjyhn3lyhpvcywxnxgzastzdp3tfsh
-  + ETH : 0x4Dd26a3cdB7333aC0319925387896537F04F7B8e
-  + XRP : rEM2kCNSTgo1pkKqEND5foQ86cs3aLyapv
-  + NEO : AN5yuxBkS3LAjT2GgFKArKC84R9J4bVmMi
-
-
+  + BTC : 3Mn84Efc6bp5w4yCNQQTAY7vJGp6Zaw92H
+  + ETH : 0xf375f90c0765b80c44f51baf4746148805443544
 
 
 <p align="center" width="100%">
