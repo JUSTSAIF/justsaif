@@ -1,9 +1,9 @@
 ### Hi there 👋
 + 💻 Full Stack Developer `Mid` 
 
-+ 📫 How to reach me :     [justsaif.github.io](https://justsaif.com)
++ 📫 How to reach me :     [justsaif.github.io](justsaif.github.io)
 
-+ 💻 Langs: 
++ 💻💉 Langs & Frameworks: 
 
 <p align="center" width="100%">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -13,10 +13,6 @@
     <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Dart-AE66EA?style=for-the-badge&logo=Dart">
 </p>
-
-
-+ 💻💉 Frameworks: 
-
 <p align="center" width="100%">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
